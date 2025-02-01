@@ -1,6 +1,9 @@
 :root {
     --webstudio-color: #2196F3;
-    --background-color: #2F303A;
+    --section-color: #2F303A;
     --heading-color: #212121;
     --text-color: #757575;
+    --background-color: #FFFFFF;
+    --webstudio-color-two: #000000; 
+    --our-team-background-color: #F5F4FA;
 }
